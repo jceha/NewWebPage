@@ -1,5 +1,5 @@
 # About
-- **Starting September 2017** Ph.D. in the David R. Cheriton School of Computer Science, University of Waterloo
+- **September 2017-2021** Ph.D. in the David R. Cheriton School of Computer Science, University of Waterloo
 
 - **2014-2016** M.Sc. in Human-Machine Communication _cum laude_, University of Groningen 
 
@@ -10,9 +10,7 @@
 
 # Research
 ## Interests
-My main research interests lie in the advancement of the cognitive neuroscience and human-machine interaction fields. I am intruiged by cognition and by increasing our understanding of it I would like to apply that knowledge to improving the communcation between humans and computers.
-
-Such topics as brain-computer interfaces and human-robot interaction interest me. The focus of my Ph.D. will be on curiosity and its application to robotics.
+My research interests lie in cognitive neuroscience and human-computer interaction. By increasing our understanding of cognition I would like to develop innovative, intuitive interfaces. I am particularly interested in brain-computer interfaces and human-robot interaction. The focus of my Ph.D. will be on curiosity and its application to robotics.
 
 
 ## Publications
