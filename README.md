@@ -1,5 +1,5 @@
 # About
-- _2017-2021_ **Ph.D. Computer Science**: Human-Computer Interaction, University of Waterloo, Canada
+- _2017-2021_ **Ph.D. Computer Science: Human-Computer Interaction**, University of Waterloo, Canada
 
 - _2014-2016_ **M.Sc. Human-Machine Communication _cum laude_**, University of Groningen, the Netherlands 
 
@@ -21,14 +21,14 @@ Başkent, D., Luckmann, A., Ceha, J., Gaudrain, E., & Tamati, T. N. (2018). The 
 Ceha, J.M. (2016). _Investigation into the Enhancement of Voice Perception: with simulations of cochlear implants and bimodal hearing._ (Master's thesis) [pdf](https://jceha.github.io/NewRepo/J.M.Ceha_MasterThesis2016.pdf)
 
 #### Conferences
-- _Theta-band phase locking after attentional blink training._ Poster presentation at the 15th NVP Winter Conference on Cognition, Brain, and Behaviour. Egmond aan Zee, the Netherlands. December 2015
+_Theta-band phase locking after attentional blink training._ Poster presentation at the 15th NVP Winter Conference on Cognition, Brain, and Behaviour. Egmond aan Zee, the Netherlands. December 2015
 
 ## Current Projects
 #### Curious robots
-Department of Computer Science, Human-Computer Interaction Lab - Dr. Edith Law
+School of Computer Science _Human-Computer Interaction Lab - Dr. Edith Law_
 
 #### Co-designing educational student robot peer with teachers
-Department of Computer Science, Human-Computer Interaction Lab - Dr. Edith Law
+School of Computer Science _Human-Computer Interaction Lab - Dr. Edith Law_
 
 ## Previous Projects
 #### Psychoacoustic Experiment on Voice Perception
