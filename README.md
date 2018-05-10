@@ -23,13 +23,6 @@ Ceha, J.M. (2016). _Investigation into the Enhancement of Voice Perception: with
 ### Conferences
 - _Theta-band phase locking after attentional blink training._ Poster presentation at the 15th NVP Winter Conference on Cognition, Brain, and Behaviour. Egmond aan Zee, the Netherlands. December 2015
 
-# Current Projects
-## Curious Robots
-### Department of Computer Science, Human-Computer Interaction Lab - Dr. Edith Law
-
-## Co-designing educational student peer with teachers
-### Department of Computer Science, Human-Computer Interaction Lab - Dr. Edith Law
-
 # Previous Projects
 ## Psychoacoustic Experiment on Voice Perception
 ### Department of Otorhinolaryngology (Audiology), University Medical Centre Groningen
