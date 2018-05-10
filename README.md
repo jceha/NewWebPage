@@ -1,11 +1,11 @@
 # About
 - _2017-2021_ **Ph.D. Computer Science**: Human-Computer Interaction, University of Waterloo, Canada
 
-- __2014-2016__ **M.Sc. in Human-Machine Communication _cum laude_**, University of Groningen, the Netherlands 
+- _2014-2016_ **M.Sc. in Human-Machine Communication _cum laude_**, University of Groningen, the Netherlands 
 
-- __2014-2016__ Honours Master ‘High Tech Systems and Materials’, University of Groningen, the Netherlands
+- _2014-2016_ Honours Master ‘High Tech Systems and Materials’, University of Groningen, the Netherlands
 
-- __2009-2014__ **B.Sc. Cognitive Systems: Cognition and Brain**, University of British Columbia, Canada
+- _2009-2014_ **B.Sc. Cognitive Systems: Cognition and Brain**, University of British Columbia, Canada
 
 
 # Research
@@ -23,25 +23,25 @@ Ceha, J.M. (2016). _Investigation into the Enhancement of Voice Perception: with
 #### Conferences
 - _Theta-band phase locking after attentional blink training._ Poster presentation at the 15th NVP Winter Conference on Cognition, Brain, and Behaviour. Egmond aan Zee, the Netherlands. December 2015
 
-# Current Projects
-## Curious Robots
+## Current Projects
+#### Curious Robots
 Department of Computer Science, Human-Computer Interaction Lab - Dr. Edith Law
 
-## Co-designing educational student peer with teachers
+#### Co-designing educational student peer with teachers
 Department of Computer Science, Human-Computer Interaction Lab - Dr. Edith Law
 
-# Previous Projects
-## Psychoacoustic Experiment on Voice Perception
+## Previous Projects
+#### Psychoacoustic Experiment on Voice Perception
 #### Department of Otorhinolaryngology (Audiology), University Medical Centre Groningen
 _Speech Perception Lab - Dr. Deniz Baskent (co-supervisor: Dr. Marieke van Vugt)_ 
 - Psychoacoustic experiment on voice perception with cochlear implant (CI) and hearing aid simulations. Results show a bimodal hearing benefit which is limited to fundamental frequency perception.
 
-## EEG-based Neurofeedback System (Brain-Computer Interface)
+#### EEG-based Neurofeedback System (Brain-Computer Interface)
 #### Department of Experimental Psychology, University of Groningen
 _Belief, Perception, and Cognition Lab - Dr. Jacob Jolij (co-supervisors: Dr. Deniz Baskent & Dr. Marieke van Vugt)_ 
 - Developed and pilot tested an electroencephalography (EEG) based neurofeedback system for improving speech perception in CI users. Results indicate a necessity for further research on event-related potentials, specifically the P300 waveform, elicited by non-word, vocoded speech stimuli.
 
-## EEG study on Theta Oscillation Phase-Locking
+#### EEG study on Theta Oscillation Phase-Locking
 #### Institute of Artificial Intelligence and Cognitive Engineering, University of Groningen
 _Cognitive Modelling Group - Dr. Marieke van Vugt_ 
 - EEG study on theta oscillation phase-locking after attentional blink (AB) training. After training away the AB, no significant increase found in theta oscillation phase-locking.
