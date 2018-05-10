@@ -1,7 +1,7 @@
 # About
 - _2017-2021_ **Ph.D. Computer Science**: Human-Computer Interaction, University of Waterloo, Canada
 
-- _2014-2016_ **M.Sc. in Human-Machine Communication _cum laude_**, University of Groningen, the Netherlands 
+- _2014-2016_ **M.Sc. Human-Machine Communication _cum laude_**, University of Groningen, the Netherlands 
 
 - _2014-2016_ Honours Master ‘High Tech Systems and Materials’, University of Groningen, the Netherlands
 
