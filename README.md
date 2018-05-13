@@ -3,14 +3,14 @@
 
 - _2014-2016_ **M.Sc. Human-Machine Communication _cum laude_**, University of Groningen, the Netherlands 
 
-- _2014-2016_ Honours Master ‘High Tech Systems and Materials’, University of Groningen, the Netherlands
+- _2014-2016_ **Honours Master** ‘High Tech Systems and Materials’, University of Groningen, the Netherlands
 
 - _2009-2014_ **B.Sc. Cognitive Systems: Cognition and Brain**, University of British Columbia, Canada
 
 
 # Research
 ## Interests
-My research interests lie in cognitive neuroscience and human-computer interaction. By increasing our understanding of cognition I would like to develop innovative, intuitive interfaces. I am particularly interested in brain-computer interfaces and human-robot interaction. The current focus of my Ph.D. is on curiosity and its application to education social robotics.
+My research interests lie in cognitive neuroscience and human-computer interaction. By increasing our understanding of cognition I would like to develop innovative, intuitive interfaces. I am particularly interested in brain-computer interfaces and human-robot interaction. The current focus of my Ph.D. is on curiosity and its application to educational social robots.
 
 
 ## Publications
