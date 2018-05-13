@@ -25,7 +25,7 @@ I am working towards my Ph.D. with Dr. Edith Law and Dr. Dana Kulic at the Unive
 
 ## Current Projects
 #### Curious/Metacgonitive Robot Peers
-School of Computer Science, University of Waterloo _Human-Computer Interaction Lab - Dr. Edith Law_, Inria Bordeaux, _FLOWERS Lab - Dr. Pierre-Yves Oudeyer_
+School of Computer Science, University of Waterloo _Human-Computer Interaction Lab - Dr. Edith Law_, Inria Bordeaux _FLOWERS Lab - Dr. Pierre-Yves Oudeyer_
 - How does a curious or a metacognitive robot peer influence student learning?
 
 #### Co-designing Educational Robot Peer with Teachers
@@ -34,7 +34,7 @@ School of Computer Science, University of Waterloo _Human-Computer Interaction L
 
 ## Upcoming Projects
 #### Neural Correlates of Curiosity
-School of Computer Science, _Human-Computer Interaction Lab - Dr. Edith Law_, Inria Bordeaux, _POTIOC - Dr. Fabien Lotte_
+School of Computer Science, University of Waterloo _Human-Computer Interaction Lab - Dr. Edith Law_, Inria Bordeaux _POTIOC - Dr. Fabien Lotte_
 
 ## Previous Projects
 #### Psychoacoustic Experiment on Voice Perception
