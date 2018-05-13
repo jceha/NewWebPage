@@ -10,7 +10,7 @@
 
 # Research
 ## Interests
-My research interests lie in cognitive neuroscience and human-computer interaction. By increasing our understanding of cognition I would like to develop innovative, intuitive interfaces. I am particularly interested in brain-computer interfaces and human-robot interaction. The current focus of my Ph.D. is on curiosity and its application to educational social robots.
+I am working towards my Ph.D. with Dr. Edith Law and Dr. Dana Kulic at the University of Waterloo. My research interests lie in cognitive neuroscience and human-computer interaction. By increasing our understanding of cognition I would like to develop innovative, intuitive interfaces. I am particularly interested in brain-computer interfaces and human-robot interaction. To that end, I am currently focussing my Ph.D. on curiosity and its application to educational social robots.
 
 
 ## Publications
@@ -24,11 +24,17 @@ My research interests lie in cognitive neuroscience and human-computer interacti
 - _Theta-band phase locking after attentional blink training._ Poster presentation at the 15th NVP Winter Conference on Cognition, Brain, and Behaviour. Egmond aan Zee, the Netherlands. December 2015
 
 ## Current Projects
-#### Curious robots
+#### Curious/Metacgonitive Robot Peers
 School of Computer Science, _Human-Computer Interaction Lab - Dr. Edith Law_
+- How does a curious or a metacognitive robot peer influence student learning?
 
-#### Co-designing educational student robot peer with teachers
+#### Co-designing Educational Robot Peer with Teachers
 School of Computer Science, _Human-Computer Interaction Lab - Dr. Edith Law_
+- We are working with teachers in an effort to discover what roles an enducational  robot peer could play for students in the classroom.
+
+## Upcoming Projects
+#### Neural Correlates of Curiosity
+School of Computer Science, _Human-Computer Interaction Lab - Dr. Edith Law_, Inria Bordeaux, _POTIOC - Dr. Fabien Lotte_
 
 ## Previous Projects
 #### Psychoacoustic Experiment on Voice Perception
