@@ -10,7 +10,7 @@
 
 # Research
 ## Interests
-I am working towards my Ph.D. with Dr. Edith Law and Dr. Dana Kulic at the University of Waterloo. My research interests lie in cognitive neuroscience and human-computer interaction. By increasing our understanding of cognition I would like to develop innovative, intuitive interfaces. I am particularly interested in brain-computer interfaces and human-robot interaction. To that end, I am currently focussing my Ph.D. on curiosity and its application to educational social robots.
+I am working towards my Ph.D. with Dr. Edith Law and Dr. Dana Kulic at the University of Waterloo. My research interests lie in cognitive neuroscience and human-computer interaction. By increasing our understanding of cognition I would like to develop innovative, intuitive interfaces. I am particularly interested in brain-computer interfaces and human-robot interaction. To this end, I am currently focussing my Ph.D. on curiosity and its application to educational social robots.
 
 
 ## Publications
