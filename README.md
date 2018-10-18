@@ -10,18 +10,19 @@
 
 # Research
 ## Interests
-I am working towards my Ph.D. with Dr. Edith Law and Dr. Dana Kulic at the University of Waterloo. My research interests lie in cognitive neuroscience and human-computer interaction. By increasing our understanding of cognition I would like to develop innovative, intuitive interfaces. I am particularly interested in brain-computer interfaces and human-robot interaction. To this end, I am currently focussing my Ph.D. on curiosity and its application to educational social robots.
+I am working towards my Ph.D. with Dr. Edith Law, at the University of Waterloo. My research interests lie in cognitive science and human-computer interaction. By increasing our understanding of cognition I would like to develop innovative, intuitive interfaces. To this end, my research currently focuses on understanding curiosity and its application to education.
 
 
-## Publications
-#### Journals
-- Başkent, D., Luckmann, A., Ceha, J., Gaudrain, E., & Tamati, T. N. (2018). The discrimination of voice cues in simulations of bimodal electro-acoustic cochlear-implant hearing. _The Journal of the Acoustical Society of America, 143_(4), EL292-EL297.
+## Academic Contributions
+- Başkent, D., Luckmann, A., **Ceha, J.**, Gaudrain, E., & Tamati, T. N. (2018). The discrimination of voice cues in simulations of bimodal electro-acoustic cochlear-implant hearing. _The Journal of the Acoustical Society of America, 143_(4), EL292-EL297.
 
-#### Thesis
-- Ceha, J.M. (2016). _Investigation into the Enhancement of Voice Perception: with simulations of cochlear implants and bimodal hearing._ (Master's thesis) [pdf](https://jceha.github.io/NewRepo/J.M.Ceha_MasterThesis2016.pdf)
+- **Ceha, J.**, Chibberr, N., Law, E., Kulic, D., Goh, J., Oudeyer, P.-Y., and McDonald, C. (2018). Expression of curiosity in social robots: Design, perception, and effects on behaviour. (In submission: CHI Conference on Human Factors in Computing Systems)
 
-#### Conferences
-- _Theta-band phase locking after attentional blink training._ Poster presentation at the 15th NVP Winter Conference on Cognition, Brain, and Behaviour. Egmond aan Zee, the Netherlands. December 2015
+- Law, E., **Ceha, J.**, Kulic, D., Oudeyer P.-Y., and Roy, D. (2018). Participatory design for identifying the roles of robots in learning activities. (In submission: CHI Conference on Human Factors in Computing Systems)
+
+- **Ceha, J.M.** (2016). _Investigation into the Enhancement of Voice Perception: with simulations of cochlear implants and bimodal hearing._ (Master's thesis) [pdf](https://jceha.github.io/NewRepo/J.M.Ceha_MasterThesis2016.pdf)
+
+- _Theta-band phase locking after attentional blink training._ **Ceha, J.**, Buwalda, T., Taatgen, N., Borst, J., & van Vugt, M. Poster presentation at the 15th NVP Winter Conference on Cognition, Brain, and Behaviour. Egmond aan Zee, the Netherlands. December 2015
 
 ## Current Projects
 #### Curious/Metacgonitive Robot Peers
@@ -30,7 +31,7 @@ School of Computer Science, University of Waterloo _Human-Computer Interaction L
 
 #### Co-designing Educational Robot Peer with Teachers
 School of Computer Science, University of Waterloo _Human-Computer Interaction Lab - Dr. Edith Law_
-- We are working with teachers in an effort to discover what roles an enducational  robot peer could play in the classroom.
+- We are working with teachers in an effort to discover what roles an enducational robot peer could play in the classroom.
 
 ## Upcoming Projects
 #### Neural Correlates of Curiosity
