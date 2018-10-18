@@ -20,18 +20,17 @@ I am working towards my Ph.D. with Dr. Edith Law, at the University of Waterloo.
 
 - Law, E., **Ceha, J.**, Kulic, D., Oudeyer P.-Y., and Roy, D. (2018). Participatory design for identifying the roles of robots in learning activities. (In submission: CHI Conference on Human Factors in Computing Systems)
 
-- **Ceha, J.M.** (2016). _Investigation into the Enhancement of Voice Perception: with simulations of cochlear implants and bimodal hearing._ (Master's thesis) [pdf](https://jceha.github.io/NewRepo/J.M.Ceha_MasterThesis2016.pdf)
+- **Ceha, J. M.** (2016). _Investigation into the Enhancement of Voice Perception: with simulations of cochlear implants and bimodal hearing._ (Master's thesis) [pdf](https://jceha.github.io/NewRepo/J.M.Ceha_MasterThesis2016.pdf)
 
 - _Theta-band phase locking after attentional blink training._ **Ceha, J.**, Buwalda, T., Taatgen, N., Borst, J., & van Vugt, M. Poster presentation at the 15th NVP Winter Conference on Cognition, Brain, and Behaviour. Egmond aan Zee, the Netherlands. December 2015
 
 ## Current Projects
-#### Curious/Metacgonitive Robot Peers
+#### Curious Robot Peers
 School of Computer Science, University of Waterloo _Human-Computer Interaction Lab - Dr. Edith Law_, Inria Bordeaux _FLOWERS Lab - Dr. Pierre-Yves Oudeyer_
-- How does a curious or a metacognitive robot peer influence student learning?
 
-#### Co-designing Educational Robot Peer with Teachers
+
+#### Co-designing Educational Robots with Teachers
 School of Computer Science, University of Waterloo _Human-Computer Interaction Lab - Dr. Edith Law_
-- We are working with teachers in an effort to discover what roles an enducational robot peer could play in the classroom.
 
 ## Upcoming Projects
 #### Neural Correlates of Curiosity
