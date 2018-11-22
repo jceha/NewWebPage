@@ -1,4 +1,8 @@
 # About
+## Interests
+I am working towards my Ph.D. with Dr. Edith Law, at the University of Waterloo. My research interests lie in cognitive science and human-computer interaction. By increasing our understanding of cognition I would like to develop innovative, intuitive interfaces. To this end, my research currently focuses on investigating curiosity-driven teaching and learning and its application to education.
+
+## Education
 **Ph.D. Computer Science: Human-Computer Interaction**, University of Waterloo, Canada (2017-2021)
 
 
@@ -11,11 +15,6 @@
 **B.Sc. Cognitive Systems: Cognition and Brain**, University of British Columbia, Canada (2009-2014)
 - A multi-disciplinary undergraduate program involving four departments: Computer Science, Linguistics, Philosophy, and Psychology
 - The program provides students with a grounding in the principles and techniques used by intelligent systems both natural and artificial.  It emphasizes the study of existing systems (e.g., perception; linguistics), the design of new ones (e.g., machine vision; machine intelligence), and the design of interfaces between different forms of intelligent agents (e.g., human-computer interfaces)
-
-
-# Research
-## Interests
-I am working towards my Ph.D. with Dr. Edith Law, at the University of Waterloo. My research interests lie in cognitive science and human-computer interaction. By increasing our understanding of cognition I would like to develop innovative, intuitive interfaces. To this end, my research currently focuses on investigating curiosity-driven teaching and learning and its application to education.
 
 
 ## Academic Contributions
@@ -37,7 +36,7 @@ School of Computer Science, University of Waterloo _Human-Computer Interaction L
 #### Co-designing Educational Robots with Teachers
 School of Computer Science, University of Waterloo _Human-Computer Interaction Lab - Dr. Edith Law_
 
-## Upcoming Projects
+
 #### Neural Correlates of Curiosity
 School of Computer Science, University of Waterloo _Human-Computer Interaction Lab - Dr. Edith Law_, Inria Bordeaux _POTIOC - Dr. Fabien Lotte_
 
