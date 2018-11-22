@@ -1,6 +1,6 @@
 # About
 ## Interests
-I am working towards my Ph.D. with Dr. Edith Law, at the University of Waterloo. My research interests lie in cognitive science and human-computer interaction. By increasing our understanding of cognition I would like to develop innovative, intuitive interfaces. To this end, my research currently focuses on investigating curiosity-driven teaching and learning and its application to education.
+I am working towards my Ph.D. with Dr. Edith Law, at the University of Waterloo. My research interests lie in cognitive science and human-computer interaction. By increasing our understanding of cognition I would like to develop innovative, intuitive interactions. To this end, my research currently focuses on curiosity-driven teaching and learning and its applications to education.
 
 ## Education
 **Ph.D. Computer Science: Human-Computer Interaction**, University of Waterloo, Canada (2017-2021)
