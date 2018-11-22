@@ -1,16 +1,25 @@
 # About
-- _2017-2021_ **Ph.D. Computer Science: Human-Computer Interaction**, University of Waterloo, Canada
+#### Ph.D. Computer Science: Human-Computer Interaction, 
+University of Waterloo, Canada (2017-2021)
 
-- _2014-2016_ **M.Sc. Human-Machine Communication _cum laude_**, University of Groningen, the Netherlands 
 
-- _2014-2016_ **Honours Master** ‘High Tech Systems and Materials’, University of Groningen, the Netherlands
+#### M.Sc. Human-Machine Communication _cum laude_, 
+University of Groningen, the Netherlands (2014-2016)
+- The program focuses on Cognitive Science and its applications. It provides insights into human cognition and teaches how to use this knowledge in applied settings, such as tutoring systems, speech technology and human-computer interaction.
 
-- _2009-2014_ **B.Sc. Cognitive Systems: Cognition and Brain**, University of British Columbia, Canada
+#### Honours Master ‘High Tech Systems and Materials’, 
+University of Groningen, the Netherlands (2014-2016)
+- 1.5 year program, organized by UGroningen in cooperation with Philips and other major industry partners, worth 20 ECTS and followed in addition to the standard master’s 
+
+#### B.Sc. Cognitive Systems: Cognition and Brain, 
+University of British Columbia, Canada (2009-2014)
+- A multi-disciplinary undergraduate program involving four departments: Computer Science, Linguistics, Philosophy, and Psychology
+- The program provides students with a grounding in the principles and techniques used by intelligent systems both natural and artificial.  It emphasizes the study of existing systems (e.g., perception; linguistics), the design of new ones (e.g., machine vision; machine intelligence), and the design of interfaces between different forms of intelligent agents (e.g., human-computer interfaces)
 
 
 # Research
 ## Interests
-I am working towards my Ph.D. with Dr. Edith Law, at the University of Waterloo. My research interests lie in cognitive science and human-computer interaction. By increasing our understanding of cognition I would like to develop innovative, intuitive interfaces. To this end, my research currently focuses on understanding curiosity and its application to education.
+I am working towards my Ph.D. with Dr. Edith Law, at the University of Waterloo. My research interests lie in cognitive science and human-computer interaction. By increasing our understanding of cognition I would like to develop innovative, intuitive interfaces. To this end, my research currently focuses on investigating curiosity-driven teaching and learning and its application to education.
 
 
 ## Academic Contributions
