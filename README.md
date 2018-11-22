@@ -1,18 +1,14 @@
 # About
-#### Ph.D. Computer Science: Human-Computer Interaction, 
-University of Waterloo, Canada (2017-2021)
+**Ph.D. Computer Science: Human-Computer Interaction**, University of Waterloo, Canada (2017-2021)
 
 
-#### M.Sc. Human-Machine Communication _cum laude_, 
-University of Groningen, the Netherlands (2014-2016)
+**M.Sc. Human-Machine Communication _cum laude_**, University of Groningen, the Netherlands (2014-2016)
 - The program focuses on Cognitive Science and its applications. It provides insights into human cognition and teaches how to use this knowledge in applied settings, such as tutoring systems, speech technology and human-computer interaction.
 
-#### Honours Master ‘High Tech Systems and Materials’, 
-University of Groningen, the Netherlands (2014-2016)
+**Honours Master ‘High Tech Systems and Materials’**, University of Groningen, the Netherlands (2014-2016)
 - 1.5 year program, organized by UGroningen in cooperation with Philips and other major industry partners, worth 20 ECTS and followed in addition to the standard master’s 
 
-#### B.Sc. Cognitive Systems: Cognition and Brain, 
-University of British Columbia, Canada (2009-2014)
+**B.Sc. Cognitive Systems: Cognition and Brain**, University of British Columbia, Canada (2009-2014)
 - A multi-disciplinary undergraduate program involving four departments: Computer Science, Linguistics, Philosophy, and Psychology
 - The program provides students with a grounding in the principles and techniques used by intelligent systems both natural and artificial.  It emphasizes the study of existing systems (e.g., perception; linguistics), the design of new ones (e.g., machine vision; machine intelligence), and the design of interfaces between different forms of intelligent agents (e.g., human-computer interfaces)
 
