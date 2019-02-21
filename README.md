@@ -1,28 +1,26 @@
 # About
-## Interests
-I am working towards my Ph.D. with Dr. Edith Law, at the University of Waterloo. My research interests lie in cognitive science and human-computer interaction. By increasing our understanding of cognition I would like to develop innovative, intuitive interactions. To this end, my research currently focuses on curiosity-driven teaching and learning and its applications to education.
+In the second year of my Ph.D. in HCI at the University of Waterloo (supervised by with Dr. Edith Law), my research interests lie in cognitive science and human-computer interaction. By increasing our understanding of cognition I would like to develop innovative, intuitive interactions. To this end, my research currently focuses on curiosity-driven teaching and learning and its applications to education.
 
 ## Education
-**Ph.D. Computer Science: Human-Computer Interaction**, University of Waterloo, Canada (2017-2021)
+**Ph.D. in Computer Science: Human-Computer Interaction**, University of Waterloo, Canada (2017-2021)
 
 
-**M.Sc. Human-Machine Communication _cum laude_**, University of Groningen, the Netherlands (2014-2016)
-- The program focuses on Cognitive Science and its applications. It provides insights into human cognition and teaches how to use this knowledge in applied settings, such as tutoring systems, speech technology and human-computer interaction.
+**M.Sc. in Human-Machine Communication _cum laude_**, University of Groningen, the Netherlands (2014-2016)
+- Thesis: _Investigation into the Enhancement of Voice Perception: 	with simulations of cochlear implants and bimodal hearing_
 
 **Honours Master ‘High Tech Systems and Materials’**, University of Groningen, the Netherlands (2014-2016)
 - 1.5 year program, organized by UGroningen in cooperation with Philips and other major industry partners, worth 20 ECTS and followed in addition to the standard master’s 
 
-**B.Sc. Cognitive Systems: Cognition and Brain**, University of British Columbia, Canada (2009-2014)
+**B.Sc. in Cognitive Systems: Cognition and Brain**, University of British Columbia, Canada (2009-2014)
 - A multi-disciplinary undergraduate program involving four departments: Computer Science, Linguistics, Philosophy, and Psychology
-- The program provides students with a grounding in the principles and techniques used by intelligent systems both natural and artificial.  It emphasizes the study of existing systems (e.g., perception; linguistics), the design of new ones (e.g., machine vision; machine intelligence), and the design of interfaces between different forms of intelligent agents (e.g., human-computer interfaces)
 
 
 ## Academic Contributions
+- **Ceha, J.**, Chibberr, N., Goh, J., McDonald, C., Oudeyer, P-Y., Kulic, D., and Law, E. (2019). Expression of Curiosity in Social Robots: Design, Perception, and Effects on Behaviour.  In _CHI Conference on Human Factors in Computing Systems Proceedgins (CHI 2019) May 4-9, 2019, Glasgow, Scotland, UK._ ACM, New York, NY, USA, 12 pages.
+
+- Law, E., **Ceha, J.**, Kulic, D., Oudeyer P-Y., and Roy, D. (2019). Participatory design for identifying the roles of robots in learning activities.  In preparation.
+
 - Başkent, D., Luckmann, A., **Ceha, J.**, Gaudrain, E., & Tamati, T. N. (2018). The discrimination of voice cues in simulations of bimodal electro-acoustic cochlear-implant hearing. _The Journal of the Acoustical Society of America, 143_(4), EL292-EL297.
-
-- **Ceha, J.**, Chibberr, N., Law, E., Kulic, D., Goh, J., Oudeyer, P.-Y., and McDonald, C. (2018). Expression of curiosity in social robots: Design, perception, and effects on behaviour. (In submission: CHI Conference on Human Factors in Computing Systems)
-
-- Law, E., **Ceha, J.**, Kulic, D., Oudeyer P.-Y., and Roy, D. (2018). Participatory design for identifying the roles of robots in learning activities. (In submission: CHI Conference on Human Factors in Computing Systems)
 
 - **Ceha, J. M.** (2016). _Investigation into the Enhancement of Voice Perception: with simulations of cochlear implants and bimodal hearing._ (Master's thesis) [pdf](https://jceha.github.io/NewRepo/J.M.Ceha_MasterThesis2016.pdf)
 
