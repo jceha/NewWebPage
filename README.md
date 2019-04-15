@@ -10,7 +10,6 @@ I am in the second year of my Ph.D. at the University of Waterloo, advised by Dr
 **Honours Master ‘High Tech Systems and Materials’**, University of Groningen, the Netherlands (2014-2016)
 
 **B.Sc. in Cognitive Systems: Cognition and Brain**, University of British Columbia, Canada (2009-2014)
-- A multi-disciplinary undergraduate program involving four departments: Computer Science, Linguistics, Philosophy, and Psychology
 
 
 ## Academic Contributions
