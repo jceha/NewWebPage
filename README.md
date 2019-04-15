@@ -1,6 +1,7 @@
 # About
 I am in the second year of my Ph.D. at the University of Waterloo, advised by Dr. Edith Law. My interests lie in increasing our understanding of cognition so that we can develop innovative, intuitive interactions, specifically those that can improve the lives of people. To this end, my research currently focuses on curiosity-driven teaching and learning.
 
+
 ## Education
 **Ph.D. in Computer Science: Human-Computer Interaction**, University of Waterloo, Canada (2017-2021)
 
