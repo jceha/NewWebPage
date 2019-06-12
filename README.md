@@ -1,5 +1,5 @@
 # About
-Jessy is in the second year of her Ph.D. at the University of Waterloo, advised by Dr. Edith Law. Her interests lie in increasing our understanding of cognition so that we can develop innovative, intuitive interactions, specifically those that can improve the lives of people. To this end, Jessy's research currently focuses on curiosity-driven teaching and learning.
+Jessy is in the second year of her Ph.D. at the University of Waterloo, advised by Edith Law. Jessy's interests lie in increasing our understanding of cognition so that we can develop innovative, intuitive interactions, specifically those that can improve the lives of people. To this end, Jessy's research currently focuses on curiosity-driven teaching and learning.
 
 
 ## Education
@@ -13,7 +13,7 @@ Jessy is in the second year of her Ph.D. at the University of Waterloo, advised 
 
 
 ## Academic Contributions
-- **Ceha, J.**, Chibberr, N., Goh, J., McDonald, C., Oudeyer, P-Y., Kulic, D., and Law, E. (2019). Expression of Curiosity in Social Robots: Design, Perception, and Effects on Behaviour.  In _CHI Conference on Human Factors in Computing Systems Proceedgins (CHI 2019) May 4-9, 2019, Glasgow, Scotland, UK._ ACM, New York, NY, USA, 12 pages.
+- **Ceha, J.**, Chibberr, N., Goh, J., McDonald, C., Oudeyer, P-Y., Kulic, D., and Law, E. (2019). Expression of Curiosity in Social Robots: Design, Perception, and Effects on Behaviour.  In _CHI Conference on Human Factors in Computing Systems Proceedings (CHI 2019) May 4-9, 2019, Glasgow, Scotland, UK._ ACM, New York, NY, USA, 12 pages.
 
 - Law, E., **Ceha, J.**, Kulic, D., Oudeyer P-Y., and Roy, D. (2019). Participatory design for identifying the roles of robots in learning activities.  In preparation.
 
