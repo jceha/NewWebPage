@@ -79,7 +79,8 @@ header {
   margin-right:-382px;
   position: fixed;
   top: 115px;
-  background: #E4ECF6;
+  /*background: #E4ECF6;*/
+  background: #fbfbfb;
   border: 1px solid #72B2FA;
   box-shadow: 0px 1px 3px rgba(0,0,0,.25);
   border-radius: 0px 2px 2px 0px;
@@ -88,23 +89,27 @@ header {
   .button {
     float: right;
     border: 1px solid #FFA07A;
-    background: #FFA07A;
+    /*background: #FFA07A;*/
+    background: #fbfbfb;
     border-radius: 2px;
     box-shadow: inset 0px 1px 0px rgba(255,255,255,.4), 0px 1px 1px rgba(0,0,0,.1);
-    background-color: #FFA07A;
+    /*background-color: #FFA07A;*/
+    background-color: #fbfbfb;
     margin-left: 250px;
     padding: 10px 12px;
     margin-top: 6px;
     line-height:14px;
     font-size:14px;
-    color:#FFA07A;
+    /*color:#FFA07A;*/
+    color: #fbfbfb;
     font-weight: bold;
     display:inline-block;
     text-align:center;
 
     &:hover {
       background: linear_gradient(rgb(255, 231, 136), rgb(255, 231, 136));
-      background-color: #FFA07A;
+      /*background-color: #FFA07A;*/
+      background-color: #fbfbfb;
     }
   }
 
@@ -114,7 +119,8 @@ header {
     margin-top: 6px;
     line-height:14px;
     font-size:14px;
-    background-color: #FFA07A;
+    */background-color: #FFA07A;*/
+    background-color: #fbfbfb;
   }
 
   .downloads {
@@ -142,7 +148,8 @@ header {
       display:inline;
 
       a.button {
-        background-color: #FFA07A;
+        /*background-color: #FFA07A;*/
+        background-color: #fbfbfb;
       }
     }
   }
